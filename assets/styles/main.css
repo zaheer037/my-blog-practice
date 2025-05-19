@@ -6,3 +6,15 @@ body {
 a {
   color: #BB86FC;
 }
+
+.subscribe-btn {
+  background-color: #007BFF;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.subscribe-btn:hover {
+  background-color: #0056b3;
+}
