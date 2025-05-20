@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zaheer037/my-blog-practice/issues"
   },
-  "homepage": "https://github.com/zaheer037/my-blog-practice#readme"
+  "homepage": "https://github.com/zaheer037/my-blog-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
