@@ -1,0 +1,20 @@
+{
+  "name": "my-blog-practice",
+  "version": "1.0.0",
+  "description": "- [Installation Guide](https://github.com/zaheer037/my-blog-practice/wiki/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaheer037/my-blog-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaheer037/my-blog-practice/issues"
+  },
+  "homepage": "https://github.com/zaheer037/my-blog-practice#readme"
+}
