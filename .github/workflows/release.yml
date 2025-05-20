@@ -1,0 +1,12 @@
+name: Auto-Tag Release
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Klemensas/action-autotag@stable
